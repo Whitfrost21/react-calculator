@@ -11,12 +11,15 @@ To get started with this project, follow these steps:
    git clone https://github.com/Whitfrost21/react-calculator.git
 
 2.**Navigate to the project directory**:
+
   `cd react-calculator`
   
 3.**Install Dependendies:
+
   `npm install`
 
 4.Start the development server:
+
   `npm start`
 
 ## Screenshot
