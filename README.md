@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
   `npm start`
 
 ## Screenshot
-!Project Screenshot
+!react-calculator Screenshot
 
 
 
