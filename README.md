@@ -1,4 +1,4 @@
-# Basic Calculator in React
+IIS# Basic Calculator in React
 
 ## Description
 This is a simple calculator application built using React.js. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -21,6 +21,7 @@ To get started with this project, follow these steps:
 4. **Start the development server**:
 
   `npm start`
+
 **Check out live:**
 https://whitfrost21.github.io/react-calculator/
 ## Screenshot
